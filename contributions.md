@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 10   | [link to my contribution](https://github.com/joannakl/ossd/issues/87)    | course website    |   I reported incorrect course website link    |
-| Feb 10    | [link to my contribution](https://github.com/joannakl/ossd/issues/88)    | I reported broken image link    |      |
+| Feb 10   | [link to my contribution](https://github.com/joannakl/ossd/issues/87)    | course website    |   reported incorrect course website link    |
+| Feb 10    | [link to my contribution](https://github.com/joannakl/ossd/issues/88)    | course website    | reported broken image link     |
 |     |     |     |      |
