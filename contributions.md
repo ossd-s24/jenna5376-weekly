@@ -25,3 +25,4 @@ Replace the first row with your own contribution.
 | Feb 10 | [link to my contribution](https://github.com/joannakl/ossd/issues/87) | course website | reported incorrect course website link |
 | Feb 10 | [link to my contribution](https://github.com/joannakl/ossd/issues/88) | course website    | reported broken image link     |
 | Feb 16 | [link to my contribution](https://github.com/ossd-s24/TikTock/issues/10) | browser add-on | suggested renaming button for clarity |
+| Feb 19 " [link to my contribution](https://github.com/ossd-s24/TikTock/pull/15) | browser add-on | implemented dynamic button title for clarity
