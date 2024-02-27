@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 | Feb 19 | [link to my contribution](https://github.com/ossd-s24/TikTock/pull/15) | browser add-on | implemented dynamic button title for clarity |
 | Feb 22 | [link to my contribution](https://en.wikipedia.org/wiki/Tteokbokki) | wikipedia edit | added mala tteok-bokki, a new tteok-bokki variation that became popular in 2023 |
 | Feb 22 | [link to my contribution](https://en.wikipedia.org/wiki/Haeundae_Beach) | wikipedia edit | added note and reference about Haeundae Sand Festival | 
+|  Feb 27| [link to my contribution](https://github.com/joannakl/ossd/issues/101) | course website | reported incorrect link for project evaluation |
