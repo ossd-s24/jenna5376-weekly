@@ -31,3 +31,5 @@ Replace the first row with your own contribution.
 | Feb 27| [link to my contribution](https://github.com/joannakl/ossd/issues/101) | course website | reported incorrect link for project evaluation |
 | Feb 29 | [link to my contribution](https://en.wikipedia.org/wiki/Figma) | wikipedia edit | added information about Dev Mode in Figma's History section |
 | Mar 10 | [link to my contribution](https://en.wikipedia.org/wiki/Mochi_donut) | wikipedia edit | fixed grammatical errors, rewrote parts for clarity |
+| Mar 13 | [link to my contribution](https://forum.freecodecamp.org/t/what-projects-i-can-start-to-practice/677018/6) | freeCodeCamp forum | responded to forum question |
+| Mar 13 | [link to my contribution](https://forum.freecodecamp.org/t/learn-form-validation-by-building-a-calorie-counter-step-78/679248) | freeCodeCamp | responded to forum question |
