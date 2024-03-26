@@ -33,6 +33,6 @@ Replace the first row with your own contribution.
 | Mar 10 | [link to my contribution](https://en.wikipedia.org/wiki/Mochi_donut) | wikipedia edit | fixed grammatical errors, rewrote parts for clarity |
 | Mar 13 | [link to my contribution](https://forum.freecodecamp.org/t/what-projects-i-can-start-to-practice/677018/6) | freeCodeCamp forum | responded to forum question |
 | Mar 13 | [link to my contribution](https://forum.freecodecamp.org/t/learn-form-validation-by-building-a-calorie-counter-step-78/679248) | freeCodeCamp | responded to forum question |
-| Mar 22 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/54188) | freeCodeCamp | contributed to issue discussion (unfortunately, another user made a pull request before I could) |
+| Mar 22 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/54188#issuecomment-2015499420) | freeCodeCamp | contributed to issue discussion (unfortunately, another user made a pull request before I could) |
 | Mar 26 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/48234#issuecomment-2020830823) | freeCodeCamp | created mobile version of portfolio redesign using Figma |
-| Mar 26 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/54224) | freeCodeCamp | raised issue: incorrect font listed in style guide  |
+| Mar 26 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/54224) | freeCodeCamp | raised issue: incorrect font listed in style guide |
