@@ -36,3 +36,4 @@ Replace the first row with your own contribution.
 | Mar 22 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/54188#issuecomment-2015499420) | freeCodeCamp | contributed to issue discussion (unfortunately, another user made a pull request before I could) |
 | Mar 26 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/48234#issuecomment-2020830823) | freeCodeCamp | created mobile version of portfolio redesign using Figma |
 | Mar 26 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/54224) | freeCodeCamp | raised issue: incorrect font listed in style guide |
+| Mar 26 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/48234#issuecomment-2021176999) | freeCodeCamp | updated mockup based on feedback |
