@@ -38,3 +38,4 @@ Replace the first row with your own contribution.
 | Mar 26 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/54224) | freeCodeCamp | raised issue: incorrect font listed in style guide |
 | Mar 26 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/48234#issuecomment-2021176999) | freeCodeCamp | updated mockup based on feedback |
 | Mar 28 | [link to my contribution](https://forum.freecodecamp.org/t/learn-html-by-building-a-cat-photo-app-step-8/682700/2?u=jnaa) | freeCodeCamp | answered forum question about coding course |
+| Mar 28 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/48234#issuecomment-2026199617) | freeCodeCamp | contributed to discussion about responsive design |
