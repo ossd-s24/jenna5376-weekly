@@ -31,14 +31,4 @@ Replace the first row with your own contribution.
 | Feb 27| [link to my contribution](https://github.com/joannakl/ossd/issues/101) | course website | reported incorrect link for project evaluation |
 | Feb 29 | [link to my contribution](https://en.wikipedia.org/wiki/Figma) | wikipedia edit | added information about Dev Mode in Figma's History section |
 | Mar 10 | [link to my contribution](https://en.wikipedia.org/wiki/Mochi_donut) | wikipedia edit | fixed grammatical errors, rewrote parts for clarity |
-| Mar 13 | [link to my contribution](https://forum.freecodecamp.org/t/what-projects-i-can-start-to-practice/677018/6) | freeCodeCamp forum | responded to forum question |
-| Mar 13 | [link to my contribution](https://forum.freecodecamp.org/t/learn-form-validation-by-building-a-calorie-counter-step-78/679248) | freeCodeCamp | responded to forum question |
-| Mar 22 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/54188#issuecomment-2015499420) | freeCodeCamp | contributed to issue discussion (unfortunately, another user made a pull request before I could) |
-| Mar 26 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/48234#issuecomment-2020830823) | freeCodeCamp | created mobile version of portfolio redesign using Figma |
-| Mar 26 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/54224) | freeCodeCamp | raised issue: incorrect font listed in style guide |
-| Mar 26 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/48234#issuecomment-2021176999) | freeCodeCamp | updated mockup based on feedback |
-| Mar 28 | [link to my contribution](https://forum.freecodecamp.org/t/learn-html-by-building-a-cat-photo-app-step-8/682700/2?u=jnaa) | freeCodeCamp | answered forum question about coding course |
-| Mar 28 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/48234#issuecomment-2026199617) | freeCodeCamp | contributed to discussion about responsive design |
-| Mar 31 | [link to my contribution](https://forum.freecodecamp.org/t/learn-html-by-building-a-cat-photo-app-step-8/683097) | freeCodeCamp | answered forum question about coding course |
-| Apr 1 | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/54261) | freeCodeCamp | removed view project buttons from Python cert projects |
-| Apr 2 | [link to my contribution](https://github.com/freeCodeCamp/design-style-guide/pull/50) | freeCodeCamp | updated style guide to include correct fonts |
+| Apr 2 | [link to my contribution](https://github.com/freeCodeCamp/design-style-guide/pull/50) | freeCodeCamp design style guide | updated style guide to include correct fonts |
