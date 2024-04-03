@@ -32,3 +32,4 @@ Replace the first row with your own contribution.
 | Feb 29 | [link to my contribution](https://en.wikipedia.org/wiki/Figma) | wikipedia edit | added information about Dev Mode in Figma's History section |
 | Mar 10 | [link to my contribution](https://en.wikipedia.org/wiki/Mochi_donut) | wikipedia edit | fixed grammatical errors, rewrote parts for clarity |
 | Apr 2 | [link to my contribution](https://github.com/freeCodeCamp/design-style-guide/pull/50) | freeCodeCamp design style guide | updated style guide to include correct fonts |
+| Apr 3 | [link to my contribution](https://github.com/ossd-s24/samGreer-weekly/pull/1) | blog | fixed typos, small grammatical errors on Sam's blog |
