@@ -34,3 +34,4 @@ Replace the first row with your own contribution.
 | Apr 2 | [link to my contribution](https://github.com/freeCodeCamp/design-style-guide/pull/50) | freeCodeCamp design style guide | updated style guide to include correct fonts |
 | Apr 3 | [link to my contribution](https://github.com/ossd-s24/samGreer-weekly/pull/1) | blog | fixed typos, small grammatical errors on Sam's blog |
 | Apr 17 | [link to my contribution](https://github.com/ossd-s24/benzoms-weekly/pull/1) | blog | fixed broken linkedin link on Ben's blog |
+| Apr 20 | [link to my contribution](https://en.wikipedia.org/wiki/Haeundae_Beach) | wikipedia | added information about Haeundae Beach's visitors |
