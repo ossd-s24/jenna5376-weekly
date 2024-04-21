@@ -35,3 +35,5 @@ Replace the first row with your own contribution.
 | Apr 3 | [link to my contribution](https://github.com/ossd-s24/samGreer-weekly/pull/1) | blog | fixed typos, small grammatical errors on Sam's blog |
 | Apr 17 | [link to my contribution](https://github.com/ossd-s24/benzoms-weekly/pull/1) | blog | fixed broken linkedin link on Ben's blog |
 | Apr 20 | [link to my contribution](https://en.wikipedia.org/wiki/Haeundae_Beach) | wikipedia | added information about Haeundae Beach's visitors |
+| Apr 21 | [link to my contribution](https://github.com/joannakl/ossd/pull/116) | course website | fixed incorrect project evaluation links |
+| Apr 21 | [link to my contribution](https://github.com/joannakl/ossd/pull/117) | course website | fixed broken resource links |
