@@ -37,3 +37,4 @@ Replace the first row with your own contribution.
 | Apr 20 | [link to my contribution](https://en.wikipedia.org/wiki/Haeundae_Beach) | wikipedia | added information about Haeundae Beach's visitors |
 | Apr 21 | [link to my contribution](https://github.com/joannakl/ossd/pull/116) | course website | fixed incorrect project evaluation links |
 | Apr 21 | [link to my contribution](https://github.com/joannakl/ossd/pull/117) | course website | fixed broken resource links |
+| Apr 26 | [link to my contribution](https://github.com/ossd-s24/TikTock/pull/17) | browser add-on | reset timer on switch |
